@@ -11,3 +11,4 @@ Related article: https://0x00sec.org/t/defeating-userland-hooks-ft-bitdefender/1
 ## Issues
 
 * x86 version has a random bug.
+* Bugs everywhere!
