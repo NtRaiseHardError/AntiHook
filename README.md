@@ -8,6 +8,10 @@ Related article: https://0x00sec.org/t/defeating-userland-hooks-ft-bitdefender/1
 
 ![demo](https://i.imgur.com/QtMBKi2.gif)
 
+## TODO
+
+* Relocations
+
 ## Issues
 
 * x86 version has a random bug.
