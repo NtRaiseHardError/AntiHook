@@ -1,5 +1,7 @@
 # AntiHook
 
+**Project has been relocated to https://github.com/NtRaiseHardError/Antimalware-Research/tree/master/Generic/Userland%20Hooking/AntiHook**
+
 PoC designed to evade userland-hooking anti-virus.
 
 Related article: https://0x00sec.org/t/defeating-userland-hooks-ft-bitdefender/12496
