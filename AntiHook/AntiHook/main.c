@@ -188,7 +188,7 @@ LPMODULE_HOOK_INFO *NewModuleHookInfo(SIZE_T nSize) {
 	LPMODULE_HOOK_INFO *mods = (LPMODULE_HOOK_INFO *)HeapAlloc(
 		GetProcessHeap(),					// Handle to heap.
 		HEAP_ZERO_MEMORY,					// Heap allocation flag options.
-		sizeof(MODULE_HOOK_INFO) * nSize	// Number of bytes to be allocated.
+		sizeof(LPMODULE_HOOK_INFO) * nSize	// Number of bytes to be allocated.
 	);
 
 	if (!mods) {
